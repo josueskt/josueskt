@@ -1,4 +1,4 @@
-# BinotDev
+# josue
 
 ![Profile Image](https://avatars.githubusercontent.com/u/9919?s=280&v=4) <!-- Reemplaza esta URL con la imagen de tu perfil -->
 
