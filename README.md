@@ -1,5 +1,5 @@
-#  josue 
-<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="Profile Image" width="150"/> 
+#  JOSUE 
+
 
 
 
