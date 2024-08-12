@@ -1,7 +1,7 @@
 #  josue 
-<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="Profile Image" width="150"/> <!-- Reemplaza esta URL con la imagen de tu perfil -->
+<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="Profile Image" width="150"/> 
 
-## Full-Stack Developer | Node.js, NestJS, Angular, Flutter
+
 
 Apasionado por el desarrollo web y móvil, con experiencia en crear aplicaciones robustas y escalables usando tecnologías modernas.
 
